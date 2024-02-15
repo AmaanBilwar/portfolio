@@ -10,21 +10,21 @@ const App = () => {
         <br />
         <br />
         <div className='h-auto w-screen flex justify-center items-center'>
-          <a href='https://www.youtube.com/watch?v=HLj_VKhqGPw'><img className='h-auto w-32' src="https://i.pinimg.com/564x/dc/92/1e/dc921ec2e07f9437dc51f2a10694578d.jpg" alt="cat image" /></a>
+          <a target='_blank' href='https://www.youtube.com/watch?v=HLj_VKhqGPw'><img className='h-auto w-32' src="https://i.pinimg.com/564x/dc/92/1e/dc921ec2e07f9437dc51f2a10694578d.jpg" alt="cat image" /></a>
         </div>
         <p className='text-center font-bold'>me btw👆</p>
         <br />
         <p className='text-center font-medium'>
-          Linkedin: <a href='https://www.linkedin.com/in/amaanbilwar' className='underline underline-offset-4'>connect✅</a>
+          Linkedin: <a target='_blank' href='https://www.linkedin.com/in/amaanbilwar' className='underline underline-offset-4'>connect✅</a>
           <br />
           <br />
-          Github: <a href='https://github.com/AmaanBilwar' className='underline underline-offset-4'>make project is fun🔨 + skills give power💪</a>
+          Github: <a target='_blank' href='https://github.com/AmaanBilwar' className='underline underline-offset-4'>make project is fun🔨 + skills give power💪</a>
           <br />
           <br />
-          Email: <a href='mailto:bilwarad@mail.uc.edu' className='underline underline-offset-4'>write to me like old days(not really)✉</a>
+          Email: <a target='_blank' href='mailto:bilwarad@mail.uc.edu' className='underline underline-offset-4'>write to me like old days(not really)✉</a>
           <br />
           <br />
-          Resume: <a href='https://drive.google.com/file/d/1HzOOF4F5_AMzJr99VcPgXneC5nX5_3Iy/view?usp=sharing' className='underline underline-offset-4'>work in scary real world📜</a>
+          Resume: <a target='_blank' href='https://drive.google.com/file/d/1HzOOF4F5_AMzJr99VcPgXneC5nX5_3Iy/view?usp=sharing' className='underline underline-offset-4'>work in scary real world📜</a>
         </p>
       </div>
     </div>
