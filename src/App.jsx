@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
       <div>
-        <h1 className='text-4xl font-bold text-center'>
+        <h1 className='pt-5 text-4xl font-bold text-center '>
           Personal Port
         </h1>
         <br />
@@ -14,11 +14,11 @@ const App = () => {
         </div>
         <p className='text-center font-bold'>me btw👆</p>
         <br />
-        <p className='text-center font-medium'>
+        <p className='text-center font-bold font-custom2' >
           Linkedin: <a target='_blank' href='https://www.linkedin.com/in/amaanbilwar' className='underline underline-offset-4'>connect✅</a>
           <br />
           <br />
-          Github: <a target='_blank' href='https://github.com/AmaanBilwar' className='underline underline-offset-4'>make project is fun🔨 + skills give power💪</a>
+          Github: <a  target='_blank' href='https://github.com/AmaanBilwar' className='underline underline-offset-4'>make project is fun🔨 + skills give power💪</a>
           <br />
           <br />
           Email: <a target='_blank' href='mailto:bilwarad@mail.uc.edu' className='underline underline-offset-4'>write to me like old days(not really)✉</a>
